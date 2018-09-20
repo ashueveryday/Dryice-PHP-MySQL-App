@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Getting Started with App42PaaS-PHP-MySQL-Sample Application:
 ----------------------------------------------------
 
@@ -52,3 +53,6 @@ Deploying Application on App42 PaaS using Source (Git):
                   $ Please wait it may take few minutes.
                   $ Latest Status....|
                   $ App deployed successfully.
+=======
+# Dryice-PHP-MySQL-App
+>>>>>>> 73e5ee08bedab647a36e15c4541129bfa6569cbf
