@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>DRYiCE Sample Application</title>
-<link rel="icon" href="images/dryice_icon.ico" type="image/x-icon"/>
+<link rel="icon" href="images/dryic_icon.ico" type="image/x-icon"/>
 <link rel="shortcut icon" href="images/dryic_icon.ico" type="image/x-icon"/>
 <link href="css/style-User-Input-Form.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="js/jquery-1.6.4.js"></script>

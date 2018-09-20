@@ -3,6 +3,8 @@
 <head>
 <meta charset="utf-8">
 <title>App42 Sample Php-MySQL Application</title>
+<link rel="icon" href="images/dryic_icon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="images/dryic_icon.ico" type="image/x-icon"/>
 <link href="css/style-User-Input-Form.css" rel="stylesheet" type="text/css">
 </head>
 
